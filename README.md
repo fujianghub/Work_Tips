@@ -16,9 +16,9 @@
   - 使用步骤：
     1. 将脚本和待处理文件放在同一目录
     2. 运行命令：`python 目录处理.py`
----
+
 # N-MD.py
 - 该文档主要用于将text格式的目录转换为MD格式，主要用于思维导图的生成
 - 用法：`python N-MD.py input.txt output.md`
 
----
+
