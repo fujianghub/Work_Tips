@@ -1,7 +1,7 @@
 import re
 
 input_file = "MYsql目录 (2).txt"
-output_file = "processed_" + input_file
+output_file = "Output_" + input_file
 
 # 尝试不同编码格式（按优先级排序）
 encodings_to_try = ['utf-8-sig', 'gbk', 'utf-16', 'ansi']
