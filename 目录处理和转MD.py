@@ -43,4 +43,4 @@ def process_directory(input_file, output_file):
 
 
 # 使用示例
-process_directory('zabbix.txt', 'output.md')
+process_directory('zabbix.txt', 'Zabbix.md')
