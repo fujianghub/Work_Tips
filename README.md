@@ -19,4 +19,20 @@
 ---
 # 文本格式整理.py
 - 将输入的乱序的文本转为格式化的表格：
-![img.png](img.png)
+```
++---------------------------------------+--------------+
+| Variable_name                         | Value        |
++---------------------------------------+--------------+
+| Variable_name                         | Value        |
+| rpl_semi_sync_master_enabled          | ON           |
+| rpl_semi_sync_master_timeout          | 3000         |
+| rpl_semi_sync_master_trace_level      | 32           |
+| rpl_semi_sync_master_wait_no_slave    | ON           |
+| rpl_semi_sync_master_wait_point       | AFTER_COMMIT |
+| rpl_semi_sync_slave_delay_master      | OFF          |
+| rpl_semi_sync_slave_enabled           | OFF          |
+| rpl_semi_sync_slave_kill_conn_timeout | 5            |
+| rpl_semi_sync_slave_trace_level       | 32           |
++---------------------------------------+--------------+
+9 rows in set (0.002 sec)
+```
