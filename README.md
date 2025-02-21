@@ -19,4 +19,5 @@
 ---
 # 文本格式整理.py
 - 将输入的乱序的文本转为格式化的表格：
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/cf0e13c3-bba1-4ed2-b9dd-129043e346cd)
+
