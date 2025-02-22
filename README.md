@@ -16,7 +16,7 @@
     1. 将脚本和待处理文件放在同一目录
     2. 在Pycharm中使用脚本模式
     3. 运行命令：`python convert_dir.py zabbix.txt output.md`
----
+
 # 文本格式整理.py
 - 将输入的乱序的文本转为格式化的表格：
 
